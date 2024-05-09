@@ -1,6 +1,6 @@
 # Oh hi!
 
-The name is Dale, and welcome to my github profile! I'm web development enthusiast that decided to take on web development as a career for life.
+The name is Dale, and welcome to my github profile! I'm a web development enthusiast that decided to take on web development as a career for life.
 
 Feel free to look around.
 
