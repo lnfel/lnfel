@@ -9,7 +9,6 @@ Feel free to look around.
 ![vscode](https://api.statusbadges.me/badge/vscode/337445993224077313?style=for-the-badge&color=skyblue)
 ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/12478479?style=for-the-badge&logo=stackoverflow&color=orange)
 ![Static Badge](https://img.shields.io/badge/osu-11h_43m-indigo?style=for-the-badge&logo=osu&logoColor=white&label=OSU%20Play%20time&color=%23FF66AA)
-
 [![Static Badge](https://img.shields.io/badge/genshin_profile-enka_network-indigo?style=for-the-badge&logoColor=white&color=%234f46e5)
 ](https://enka.network/u/800141390/)
 
