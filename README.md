@@ -71,4 +71,8 @@ Throughout the years in my endeavor as a professional web developer I learned ma
 
 [![Miscellaneous](https://skillicons.dev/icons?i=rust,tauri,threejs,wasm,blender,unity)](https://skillicons.dev)
 
+---
 
+## Contributions Stats
+
+![3D Github Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
